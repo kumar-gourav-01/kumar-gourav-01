@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar-gourav-01&label=Profile%20views&color=0e75b6&style=flat" alt="kumar-gourav-01" /> </p>
 
-- 🎓 I'm currently pursuing **Bachelor of Technology in Information Technology from USICT Delhi**
+- 🎓 I've completed **Bachelor of Technology in Information Technology from USICT Delhi**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
